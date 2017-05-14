@@ -1,4 +1,4 @@
-Dear friends:
+# Dear friends:
 
 We hope to create a software about Artificial Intelligence.
 
